@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Matheus Oliveira
 - 👀 I’m interested in Sports, Tecnologhy 
 - 🌱 I’m currently learning about PHP, C# .NET and Other Languages in Developement Web and Development API's
-- 📫 How to reach me Email: jefferson.oliveira203@etec.sp.gov.br Whatsap: (55)11988745706
+- 📫 How to reach me Email: matheusdesenvolvedor011@gmail.com
+- Whatsap: (55)11988745706
