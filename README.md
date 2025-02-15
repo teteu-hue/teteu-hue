@@ -53,12 +53,15 @@
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" height="40" alt="Git logo"/>
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/github/github-original-wordmark.svg" height="40" alt="GitHUB logo"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/github/github-original.svg" height="40" alt="GitHUB logo"/>
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/nodejs/nodejs-original.svg" height="40" alt="NODEJS logo"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bitbucket/bitbucket-original.svg" height="40" alt="PostgreSQL logo"/>
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/tree/v2.16.0/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL logo"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="NODEJS logo"/>
   <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-plain.svg" height="40" alt="PostgreSQL logo"/>
+  <img width="12" />
+  
 </div>
 
 ###
@@ -66,10 +69,13 @@
 <h5 align="center"><strong>A vida é um sopro.</strong></h5>
 
 ###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ardosobral&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ardosobral&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  
+[![Jefferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=teteu-hue&count_private=false&show_icons=true&theme=vision-friendly-dark)](https://github.com/teteu-hue/github-readme-stats) 
+
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=teteu-hue&layout=compact&hide=Visual%20Basic%206.0)](https://github.com/teteu-hue/github-readme-stats)
+
 </div>
 
 ###
