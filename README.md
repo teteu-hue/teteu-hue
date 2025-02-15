@@ -22,7 +22,10 @@
 
 ###
 
-<p align="left">Atualmente Desenvolvendo Sistemas em PHP e Vue.js</p>
+<p align="left">Tenho experiência com criação de APIs RESTful com Node.js, PHP e TypeScript, utilizando Docker para garantir segurança e escalabilidade.
+Vivência com Laravel e Next na criação de projetos freelancers, pessoais e semestrais do curso técnico.
+
+Possuo capacidade analítica, instinto de liderança, escuta ativa, rápida absorção de conhecimento, aprendizado constante, não comodismo, Resiliência em resolução de problemas e excelente comunicação interpessoal e profissional.</p>
 
 ###
 
