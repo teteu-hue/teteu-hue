@@ -64,7 +64,8 @@ Possuo capacidade analítica, instinto de liderança, escuta ativa, rápida abso
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-plain.svg" height="40" alt="PostgreSQL logo"/>
   <img width="12" />
-  
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apachekafka/apachekafka-original.svg" style="color:white;" height="40" alt="PostgreSQL logo"/>
+  <img width="12" />
 </div>
 
 ###
